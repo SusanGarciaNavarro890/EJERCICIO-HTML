@@ -1,0 +1,41 @@
+
+
+body {
+	color: blue;
+	background-image: url(Atrapasueños.jpg.jpg);
+
+}
+
+p {
+	color:  #ffff00;
+	font-family: serif;
+	font-size: 20px;
+}
+
+h4 {
+	color: blue;
+	font-size: 20px;
+}
+h1{
+	font-family: fantasy;
+	font-size: 40px;
+}
+
+h2 {
+	font-family: fantasy;
+	font-size: 25px;
+	color: white;
+}
+
+h3 {
+	font-family: fantasy;
+	font-size: 25px ;
+	color:white;
+}
+
+hr {
+	border: none;
+	height: 25px;
+	background: linear-gradient(to left, black, blue,red,yellow );
+
+}
